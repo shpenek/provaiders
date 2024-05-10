@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    color: white;
+    background-image: url('https://polinka.top/uploads/posts/2023-05/1684135660_polinka-top-p-kartinki-zemli-iz-kosmosa-krasivie-instagr-29.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    display: flex;
+    justify-content: center;
+
+}
+.Logo a{
+    color:aliceblue
+}
+.Logo, .Top_menu{
+    margin-right:20px ;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Top_menu li{
+    margin-right:20px ;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Top_menu a{
+    font-family: arial;
+    font-size: 20px;
+    color: white;
+}
+.Top_menu a:hover{
+    color:aqua
+}
+.Low_menu li{
+    margin-top: 40px;
+    margin-right:20px ;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Low_menu a{
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+}
+.Low_menu a:hover{
+    color:rgb(0, 255, 221)
+    
+}
+.about1 li{
+    margin-top: 30px;
+    margin-right:20px ;
+    vertical-align: middle;
+}
+.about1 a{
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+}
+.about2 li{
+    margin-right:20px ;
+    vertical-align: middle;
+}
+.about2 a{
+    font-family: arial;
+    font-size: 25px;
+    color: white;
+}
+.Logo h1{
+    font-family: arial;
+    font-size: 30px;
+    color: white;
+    vertical-align: middle;
+}
+.Text li{
+    margin-right:20px ;
+    vertical-align: middle;
+    margin-top: 40px;
+}
+.Text a{
+    font-family: arial;
+    background: fixed;
+    background-color: rgba(0, 0, 0, 0.589);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.squad{
+    width: 400px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+}
